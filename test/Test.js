@@ -31,33 +31,39 @@ describe("eco", function () {
         return new Promise((resolve) => setTimeout(resolve, ms));
       }
 
-      await eco.donateOrFund({ value: ethers.parseEther("1000") });
+      //await eco.donateOrFund({ value: ethers.parseEther("1000") });
 
       await eco.addAdmin(user1.address);
 
       await eco.connect(user2).registerAction("env", "desc", "proof");
 
-      await eco.connect(user1).confirmAction(0, 5);
+      await eco.connect(user1).confirmAction(0, 5, true);
 
-      await eco.connect(user3).registerWaste(100);
+      await eco.connect(user3).registerWaste(100, true);
 
-      await eco.connect(user1).confirmWaste(0, 5);
+      await eco.connect(user1).confirmWaste(0, 5, true);
 
-      await eco.registerTrees(5);
+      await eco.registerTrees(5, "loc");
 
-      await eco.connect(user1).confirmTress(0, 5);
+      await eco.connect(user1).confirmTress(0, 5, true);
 
       console.log("total", await ethers.provider.getBalance(eco.target));
 
-      console.log(await eco.getUserData(owner.address));
+      //await eco.getPaid(1);
 
-      await eco.getPaid(1);
+      await eco.connect(user2).registerAction("env", "desc", "proof");
 
-      console.log(await eco.getUserData(owner.address));
+      await eco.connect(user1).confirmAction(0, 5, true);
+
+      console.log(await eco.getUserData(user2.address));
 
       //console.log(await eco.getContractData());
 
-      console.log(await eco.getUserList());
+      //console.log(await eco.getActions());
+
+      //console.log(await eco.getWasteActions());
+
+      //console.log(await eco.getTreeActions());
     });
   });
 });
