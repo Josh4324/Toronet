@@ -15,9 +15,9 @@ Users need to create an environmental action, there are 3 types of environmental
 </br></br>
 There are two type of users in this application, the normal user and the admin, the normal users are the ones that create the environmental actions. The admin are the ones that check the submitted actions and can approved the request and assign points or reject the request if it is not convicing enough.
 </br></br>
-The waste recyling action requires physical submittion of the waste to be recycled and the locations od submittion are on the web application. Without the physical submittion of the wate the action will not be approved and point will not be assigned to the user.
+The waste recyling action requires physical submission of the waste to be recycled and the locations od submission are on the web application. Without the physical submission of the wate the action will not be approved and point will not be assigned to the user.
 </br></br>
-The tree planting actions requires the submittion of the location of the trees planted and the tree planted will be confirmed before the action is approved and point are assigned.
+The tree planting actions requires the submission of the location of the trees planted and the tree planted will be confirmed before the action is approved and point are assigned.
 </br></br>
 Points are assigned for approved environmental actions and users can convert their point to toro coins, this is how users get rewarded for their environmental actions.
 
@@ -37,6 +37,11 @@ SDG 13: Climate Action - Particularly through initiatives like tree planting, wh
 
 These goals collectively address environmental sustainability, responsible resource management, and climate resilience, contributing to a holistic approach to development.
 <br/>
+
+## How to Get Funding for ECO4Reward
+
+Eco4Reward is a social good project, we will rely on getting funding from donors, government and willing indiviuals, that is why we have a call to action on the page for those who are willing to help fund the project. We will also sell sorted waste to companies who can use them to make new products, also through our tree planting actions, we can sell carbon credits on the global marketplace.
+</br></br>
 
 ## Key Features:
 
