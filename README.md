@@ -78,6 +78,11 @@ https://testnet.toronet.org/tx.html?id=0x57917124b4c1914a6932b415e600ac79f2e46d7
 https://testnet.toronet.org/tx.html?id=0xef46f9a00d5b47ab485745480282f4ea831b2a027b79b4e30b6974e187429773
 <br/>
 https://testnet.toronet.org/tx.html?id=0x9ae84db074b5daff44cd3e793774d28a75829d52e90cdeb845abb3dd10642fd7
+<br/>
+https://testnet.toronet.org/tx.html?id=0xebe92a6a495c46edb190682ae5f2db914c05d5822f6d4f84499f4e1bfbc6cbc3
+<br/>
+https://testnet.toronet.org/tx.html?id=0x06470b1b27b743fd8720adde5f02fab5a30ee24611f83d0ba1a8dcfbf7a60ae8
+<br/>
 
 ### Originality
 
