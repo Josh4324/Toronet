@@ -4,7 +4,7 @@ Green Deeds, Bright Rewards: Cultivate a Greener World, One Action at a Time!. <
 
 ## Project Description
 
-ECO4Reward is a decentralized solution, generously rewarding users for actively contributing to a positive environmental impact. This innovative application tackles two critical challenges: environmental degradation and rising unemployment. In the face of Nigeria's economic struggles, a significant portion of the population is grappling with deep poverty, exacerbated by an oversaturated job market unable to accommodate the influx of university graduates. Simultaneously, environmental neglect is worsening, with a pervasive lack of awareness about the repercussions of individual actions on the environment.
+ECO4Reward is a decentralized solution, that rewards users for taking actions that has a positive impact on the environment. This innovative application tackles two critical challenges: environmental degradation and rising unemployment. In the face of Nigeria's economic struggles, a significant portion of the population is grappling with deep poverty, exacerbated by an oversaturated job market unable to accommodate the influx of university graduates. Simultaneously, environmental neglect is worsening, with a pervasive lack of awareness about the repercussions of individual actions on the environment.
 </br></br>
 ECO4Reward aspires to bridge these gaps by incentivizing eco-friendly actions. By doing so, it not only addresses the immediate concerns of environmental deterioration but also provides a means of livelihood for individuals in need. The synergy between environmental well-being and economic empowerment is at the heart of ECO4Reward, striving for a harmonious balance between prosperity and planet Earth.
 </br></br>
