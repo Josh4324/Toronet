@@ -60,7 +60,7 @@ Impacts - View the impacts you have done in your profile
 
 ## Project Details
 
-Link to Web App - https://eco4reward.vercel.app/ <br/>
+Link to Web App (Best Viewed on Desktop)- https://eco4reward.vercel.app/ <br/>
 Link to Front End Repo - https://github.com/Josh4324/Toronet-FE
 
 ## Smart Contract Details
