@@ -92,11 +92,11 @@ https://testnet.toronet.org/tx.html?id=0x06470b1b27b743fd8720adde5f02fab5a30ee24
 
 ### DEMO
 
-Demo -
+Demo - https://youtu.be/ZsMjAA0VkAM
 
 <br/>
 
-Twiter -
+Twiter - https://twitter.com/josh_my_man/status/1729184053478502613
 
 ## Project Screen Shot(s)
 
